@@ -5,7 +5,7 @@
     <img src="https://www.wrrp.de/wildride_scripts_long.png" alt="Logo" width="350">
   </a>
 
-  <h3 align="center">wessy_<strong>AutoVote</strong></h3>
+  <h3 align="center">wessy_<strong>Shooting</strong></h3>
 
   <p align="center">
     A timebased shooting range script with custom objects on custom locations
